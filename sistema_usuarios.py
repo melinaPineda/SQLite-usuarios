@@ -124,4 +124,18 @@ def menu():
             print("Ese no ta")
 
 
+         #respuestas
+
+            #¿Qué función crea la tabla? - es: crear_tabla()
+
+            #¿Qué función inserta datos? -  es: crear_usuario()
+
+            #¿Qué función busca y muestra todos los usuarios? - La función es: leer_usuarios()
+
+            #¿Qué función modifica datos? - es: actualizar_usuario()
+
+            #¿Qué función elimina un registro? - es: eliminar_usuario()
+
+
+
 menu()
